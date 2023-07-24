@@ -4,7 +4,7 @@ Github repository of the CSS Times Newspaper. CSS-Times is a satirical newspaper
 
 This repository contains the source code for the website. Simply run "npm install" then "npm start" to run the website locally.
 
-At the time of writing (24/07/2023), the website can be accessed at "csstimes.co.uk" or "https://css-times.github.io". This domain will expire at some point in the future.
+At the time of writing (24/07/2023), the website can be accessed at "https://csstimes.co.uk" or "https://css-times.github.io". This domain will expire at some point in the future.
 
 This repository and GitHub profile have only been created for hosting purposes. If you wish to contact the creators, please reach out to their GitHub profiles (not this profile).
 Useful contact links:
