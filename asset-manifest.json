@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0fd2656.css",
+    "main.js": "/static/js/main.05e52433.js",
+    "static/js/787.6fb1f7ac.chunk.js": "/static/js/787.6fb1f7ac.chunk.js",
+    "static/media/sprayWall.jpg": "/static/media/sprayWall.4cfd4a7439cca636579c.jpg",
+    "static/media/photographerStrike16x9.jpg": "/static/media/photographerStrike16x9.e763564b5f8fee9fdb3c.jpg",
+    "static/media/loveByte.jpg": "/static/media/loveByte.4970a7b2e537b5cc6960.jpg",
+    "static/media/mvbDoor.jpg": "/static/media/mvbDoor.4ba903391fc7057b80fb.jpg",
+    "static/media/isThisArt.jpg": "/static/media/isThisArt.2e754877a8d78a61cc64.jpg",
+    "static/media/bet365ad.jpg": "/static/media/bet365ad.0ec243a755a7f480297f.jpg",
+    "static/media/scotlandYardLawsuit.jpg": "/static/media/scotlandYardLawsuit.ffbffea86527e096565b.jpg",
+    "static/media/josephHalletCaughtWindows.jpg": "/static/media/josephHalletCaughtWindows.bdd4ea3fd2c6d1f69cf6.jpg",
+    "static/media/chatgtpRuinedMarriage.jpg": "/static/media/chatgtpRuinedMarriage.9bf7bf1d519e39484507.jpg",
+    "static/media/4factauth.jpg": "/static/media/4factauth.b9312a1023d95442cd4d.jpg",
+    "static/media/hacker.jpg": "/static/media/hacker.3a62a0512f0843275218.jpg",
+    "static/media/slightlySunny.jpg": "/static/media/slightlySunny.7c80c051fc1066a883c1.jpg",
+    "static/media/downloadRAM.jpg": "/static/media/downloadRAM.67f84e03d58d401e3dc1.jpg",
+    "static/media/CorrectionEmailLeakedScaledLeft.png": "/static/media/CorrectionEmailLeakedScaledLeft.d7b0bccc7bba5b5573c8.png",
+    "static/media/cssTimesLogoBlack.png": "/static/media/cssTimesLogoBlack.d6bdd0556bd1017136ad.png",
+    "static/media/yesWeKhan.png": "/static/media/yesWeKhan.30e829572a97f312661a.png",
+    "static/media/katepriceinsta.png": "/static/media/katepriceinsta.361ad1f5f43ef0e9b77f.png",
+    "static/media/KatiePriceImageMain.jpg": "/static/media/KatiePriceImageMain.72987bf5ec78ca09a710.jpg",
+    "index.html": "/index.html",
+    "main.c0fd2656.css.map": "/static/css/main.c0fd2656.css.map",
+    "main.05e52433.js.map": "/static/js/main.05e52433.js.map",
+    "787.6fb1f7ac.chunk.js.map": "/static/js/787.6fb1f7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0fd2656.css",
+    "static/js/main.05e52433.js"
+  ]
+}
