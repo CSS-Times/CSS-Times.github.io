@@ -1,5 +1,7 @@
 Github repository of the CSS Times Newspaper. CSS-Times is a satirical newspaper that publishes spoof stories centered around the University of Bristol and its Computer Science department. This website was awarded the top prize of £100 for the 2023 CSS Bristol Art hackathon. Four students worked together over the course of a weekend to produce this submission.
 
+![image](https://github.com/CSS-Times/css-times.github.io/assets/140274368/fb9f257e-221e-4c60-ba83-717f6c4aed91)
+
 This repository contains the source code for the website. Simply run "npm install" then "npm start" to run the website locally.
 
 At the time of writing (24/07/2023), the website can be accessed at "https://csstimes.co.uk/". This domain will expire at some point in the future.
